@@ -1,8 +1,8 @@
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Luca!</h1>
-<h3 align="center">A Computer Science student who wants to one day become a great Game Developer</h3>
+<h3 align="center">A Web Development student focused on helping people with their problems</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucarod" alt="lucarod" /> </p>
 
-- 🌱 I’m currently learning HTML, CSS and Javascript
+- 🌱 I’m currently learning HTML, CSS, Javascript, sometimes using Node.js and Express
 
 - 📫 How to reach me **luca12rodrigues@gmail.com**
 
