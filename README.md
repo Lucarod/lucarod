@@ -2,7 +2,7 @@
 <h3 align="center">A Web Development student focused on helping people with their problems</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucarod" alt="lucarod" /> </p>
 
-- 🌱 I’m currently learning HTML, CSS, Javascript, sometimes using Node.js and Express
+- 🌱 I’m currently learning React, Next.js and other front-end technologies.
 
 - 📫 How to reach me **luca12rodrigues@gmail.com**
 
