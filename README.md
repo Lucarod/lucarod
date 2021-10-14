@@ -1,5 +1,5 @@
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Luca!</h1>
-<h3 align="center">A Web Development student focused on helping people with their problems</h3>
+<h3 align="center">A Frontend Developer focused on helping people with their problems</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucarod" alt="lucarod" /> </p>
 
 - 🌱 I’m currently learning React, Next.js and other front-end technologies.
