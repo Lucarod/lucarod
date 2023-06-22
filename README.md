@@ -2,7 +2,9 @@
 <h3 align="center">A Frontend Developer focused on helping people with their problems</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucarod" alt="lucarod" /> </p>
 
-- 🌱 I’m currently learning React, Next.js and other front-end technologies.
+- 💻 I work with React, TypeScript and other front-end technologies.
+
+- 🌱 I’m currently studying Back-end and Mobile development, new frontend design patterns and state of the art technology.
 
 - 📫 How to reach me **luca12rodrigues@gmail.com**
 
